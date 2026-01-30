@@ -2,7 +2,7 @@ package Patternprintting.stage5;
 
 import java.util.Scanner;
 
-public class Task2 {
+public class Task3 {
     static void main() {
         Scanner sc = new Scanner(System.in);
         int rows = sc.nextInt();
