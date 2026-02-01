@@ -2,33 +2,36 @@ package Methods;
 
 public class Math_Builtin {
     public static void main(String[] args) {
-
         int a = 16;
-        float b = 5.5f;
-        double c = 9.2;
+        float b = 4.6f;
+        double c = 9.8;
         long d = -25;
 
-        System.out.println("Max (a, b): " + Math.max(a, b));
-        System.out.println("Min (c, d): " + Math.min(c, d));
+        System.out.println("abs(d) = " + Math.abs(d));
+        System.out.println("max(a, b) = " + Math.max(a, b));
+        System.out.println("min(b, c) = " + Math.min(b, c));
 
-        System.out.println("Sqrt of a: " + Math.sqrt(a));
+        System.out.println("sqrt(a) = " + Math.sqrt(a));
+        System.out.println("cbrt(a) = " + Math.cbrt(a));
+        System.out.println("pow(a, b) = " + Math.pow(a, b));
 
-        System.out.println("Power (a^b): " + Math.pow(a, b));
+        System.out.println("ceil(b) = " + Math.ceil(b));
+        System.out.println("floor(b) = " + Math.floor(b));
+        System.out.println("round(b) = " + Math.round(b));
+        System.out.println("rint(c) = " + Math.rint(c));
 
-        System.out.println("Absolute of d: " + Math.abs(d));
+        System.out.println("exp(a) = " + Math.exp(a));
+        System.out.println("log(c) = " + Math.log(c));
+        System.out.println("log10(c) = " + Math.log10(c));
 
-        System.out.println("Ceil of b: " + Math.ceil(b));
-        System.out.println("Floor of c: " + Math.floor(c));
-        System.out.println("Round of b: " + Math.round(b));
+        System.out.println("sin(a) = " + Math.sin(a));
+        System.out.println("cos(a) = " + Math.cos(a));
+        System.out.println("tan(a) = " + Math.tan(a));
 
-        System.out.println("Sin(a): " + Math.sin(a));
-        System.out.println("Cos(b): " + Math.cos(b));
-        System.out.println("Tan(c): " + Math.tan(c));
+        System.out.println("random() = " + Math.random());
 
-        System.out.println("Log(c): " + Math.log(c));
-        System.out.println("Log10(c): " + Math.log10(c));
-        System.out.println("Exp(a): " + Math.exp(a));
-
-        System.out.println("Random Number: " + Math.random());
+        System.out.println("PI = " + Math.PI);
+        System.out.println("E = " + Math.E);
     }
 }
+
