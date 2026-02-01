@@ -1,4 +1,4 @@
-package Methods;
+package Methods.Return_types;
 
 public class return_types {
     static int sum(int a, int b) {
