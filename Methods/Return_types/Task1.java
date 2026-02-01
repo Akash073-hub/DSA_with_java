@@ -14,7 +14,9 @@ public class Task1 {
         Scanner sc = new Scanner(System.in);
         int var_1 = sc.nextInt();
         int var_2 = sc.nextInt();
-        int factorial = fact(var_1)/(fact(var_2)*fact(var_1-var_2));
-        System.out.println(factorial);
+        int ncr = fact(var_1)/(fact(var_2)*fact(var_1-var_2));
+        int npr = fact(var_1)/fact(var_1-var_2);
+        System.out.println(ncr);
+        System.out.println(npr);
     }
 }
