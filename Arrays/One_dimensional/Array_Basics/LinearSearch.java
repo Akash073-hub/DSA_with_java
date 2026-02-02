@@ -2,7 +2,7 @@ package Arrays.One_dimensional.Array_Basics;
 
 import java.util.Scanner;
 
-public class Task8 {
+public class LinearSearch {
     static void main() {
         Scanner sc = new Scanner(System.in);
         int [] arr ={1,2,3,4,5};
