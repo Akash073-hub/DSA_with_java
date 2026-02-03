@@ -1,5 +1,8 @@
-- **Basics**
-    
-  Contains simple Java programs such as printing output, variables,
-  data types, conditional statements, and basic input/output and Builtin methods.
-
+- **Basics** 🧱
+  
+  🚀 Learn the foundation of Java with simple programs covering:
+  - Output printing  
+  - Variables & data types  
+  - Conditional statements  
+  - Basic input/output  
+  - Commonly used built-in methods
