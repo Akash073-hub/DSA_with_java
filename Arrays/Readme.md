@@ -1,5 +1,6 @@
 ***📌 What is an Array? ***
 
+
 An array is a container that stores multiple values of the same type in a single variable.
 
 Instead of creating many variables like:
