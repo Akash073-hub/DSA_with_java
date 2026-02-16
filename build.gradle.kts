@@ -9,6 +9,7 @@ plugins {
     id("java")
     // Apply the application plugin to make it easy to run the code
     id("application")
+    id("checkstyle")
 }
 
 repositories {
