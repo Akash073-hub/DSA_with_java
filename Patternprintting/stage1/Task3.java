@@ -1,4 +1,4 @@
-package Patternprintting;
+package Patternprintting.stage1;
 
 import java.util.Scanner;
 

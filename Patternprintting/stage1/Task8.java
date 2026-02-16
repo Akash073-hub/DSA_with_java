@@ -1,4 +1,4 @@
-package Patternprintting;
+package Patternprintting.stage1;
 
 public class Task8 {
     public static void main(String[] args) {

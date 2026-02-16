@@ -12,7 +12,3 @@ public class Task2 {
         System.out.print("]");
     }
 }
-package Arrays.One_dimensional.Array_Basics;
-
-public class Task2 {
-}

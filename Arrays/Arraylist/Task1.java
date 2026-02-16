@@ -8,7 +8,7 @@ public class Task1 {
         ArrayList<Integer> list = new ArrayList<>();
         list.add(9);
         list.add(9);
-        list.add(9);
+        list.add(2);
         list.add(9);
         list.add(9);
         int n = list.size();

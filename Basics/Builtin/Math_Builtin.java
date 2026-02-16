@@ -1,4 +1,4 @@
-package Methods.Builtin;
+package Basics.Builtin;
 
 public class Math_Builtin {
     public static void main(String[] args) {
